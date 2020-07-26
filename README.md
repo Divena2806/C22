@@ -1,2 +1,2 @@
-# C22
-Created a world with the object in it using physics engine (matter.js)
+# staticSquare
+A static square made using Matter.js physics engine
